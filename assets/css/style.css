@@ -37,6 +37,7 @@ nav ul {
     text-align: center;
 }
 
+
 nav li {
     display: inline;
 }
@@ -53,13 +54,13 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
+    width: 70%;
     height: auto;
     background-color: white;
 }
 
 #banner img {
-    width: 60%;
+    width: 50%;
     height: auto;
 }
 
